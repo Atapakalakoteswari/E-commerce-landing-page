@@ -7,10 +7,15 @@ A modern, responsive e-commerce landing page built with HTML, CSS, Bootstrap 5, 
 Features:-
 
 -Animated Hero Section:Eye-catching gradient and background image with a clear call to action.
+
 -Featured Products:Responsive grid displaying 8 products with badges, hover effects, and clear CTAs.
+
 -Newsletter Signup:Integrated form with JavaScript validation and feedback.
+
 -Theme Toggle:Instantly switch between light and dark modes.
--Modern Footer:Includes social media icons and branding.
+
+-Modern Footer:Includes social media icons and branding.    
+
 -Fully Responsive:Optimized for mobile, tablet, and desktop devices.
 
 Customization:-
